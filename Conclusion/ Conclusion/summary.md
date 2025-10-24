@@ -1,5 +1,5 @@
 Це мій перший пет-проект
-[Це візуалізація прибутку трьох ігор.](https://public.tableau.com/app/profile/viktor.vovchuk/viz/ThreeGamesRevenueDashboard/ThreeGamesRevenueDashboard.)
+[Це візуалізація прибутку трьох ігор.](https://public.tableau.com/app/profile/viktor.vovchuk/viz/ThreeGamesRevenueDashboard/ThreeGamesRevenueDashboard)
 
 Прибутковість в останній місяць даних які у мене є така гра №1 13$ в гри №2 16$, у гри №3 8411$
 Також є графік де є середній LT і LTV. Дуже поганий середній LTV гри №1 та №2 у порівння з грой №3.
